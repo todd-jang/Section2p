@@ -174,8 +174,9 @@ Part 2
  모델 학습 결과에 대한 해석이 드러나 있다. (가설 해소 혹은 문제 해결 등)
  
  ===================================================================================
+ 출처
  
- CS50AI - Week 4 - Shopping
+ CS50AI - Week 4 - Shopping project
 Task:
 Write an AI to predict whether online shopping customers will complete a purchase, using the Scikit-Learn k-Nearest Neighbours classifier.
 
